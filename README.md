@@ -1,6 +1,5 @@
 # SeabornGroup_JC_DS_12_FinalProject
 
-# SeabornGroup_JC_DS_12_FinalProject
 Team Members :
 1. Albert Aldo - 12albertaldo@gmail.com | [LinkedIn](https://www.linkedin.com/in/albertaldo/) | [GitHub](https://github.com/AlbertAldo)
 2. Elvin Fatkhunnuha - fatkhuelvin@gmail.com | [LinkedIn](https://www.linkedin.com/in/elvin-fatkhunnuha/) | [GitHub](https://github.com/elvinfatkhu)
